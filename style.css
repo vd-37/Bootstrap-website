@@ -151,7 +151,7 @@ footer{
 }
 @media (max-width: 480px) {
   .carousel-caption{
-    top: 40%;
+    top: 30%;
   
  }
  .carousel-caption h1{
