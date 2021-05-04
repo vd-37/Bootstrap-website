@@ -149,7 +149,7 @@ footer{
     margin: auto 0.2em;
   }
 }
-@media (max-width: 350px) {
+@media (max-width: 480px) {
   .carousel-caption{
     top: 40%;
   
@@ -163,8 +163,8 @@ footer{
    padding-bottom: 0.2rem;
  }
  .carousel-caption btn{
-   font-size: 90%;
-   padding: 4px 9px;
+   font-size: 60%;
+   padding: 2px 5px;
  }
  .carousel-indicators{
    display: none;
@@ -173,7 +173,7 @@ footer{
   font-size: 150%;
 }
 .social a{
-  font-size: 0.5em;
+  font-size: 0.2em;
 }
 }
 
