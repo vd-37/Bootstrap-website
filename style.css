@@ -149,7 +149,7 @@ footer{
     margin: auto 0.2em;
   }
 }
-@media (max-width: 576px) {
+@media (max-width: 480px) {
   .carousel-caption{
     top: 40%;
   
