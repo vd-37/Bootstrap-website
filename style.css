@@ -156,11 +156,11 @@ footer{
  }
  .custom{
    line-height: 1;
-   font-size: 25%;
-   padding: 1px 3px;
+   font-size: 50%;
+   padding: 2px 5px;
  }
  .carousel-caption h1{
-   font-size: 200%;
+   font-size: 250%;
  }
  .carousel-caption h3{
    font-size: 110%;
