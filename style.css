@@ -178,7 +178,39 @@ footer{
   font-size: 150%;
 }
 .social a{
-  font-size: 0.2em;
+  font-size: 0.5em;
+}
+}
+@media (max-width: 350px) {
+  .carousel-caption{
+    top: 30%;
+  
+ }
+ .custom{
+   line-height: 1;
+   font-size: 30%;
+
+ }
+ .carousel-caption h1{
+   font-size: 250%;
+ }
+ .carousel-caption h3{
+   font-size: 110%;
+   font-weight: 250;
+   padding-bottom: 0.2rem;
+ }
+ .carousel-caption btn{
+   font-size: 60%;
+   padding: 2px 5px;
+ }
+ .carousel-indicators{
+   display: none;
+ }
+ .display-4{
+  font-size: 150%;
+}
+.social a{
+  font-size: 0.4em;
 }
 }
 
