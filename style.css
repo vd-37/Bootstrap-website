@@ -157,7 +157,7 @@ footer{
  .custom{
    line-height: 1;
    font-size: 60%;
-   padding: 2px 5px;
+
  }
  .carousel-caption h1{
    font-size: 250%;
@@ -166,6 +166,10 @@ footer{
    font-size: 110%;
    font-weight: 250;
    padding-bottom: 0.2rem;
+ }
+ .carousel-caption btn{
+   font-size: 60%;
+   padding: 2px 5px;
  }
  .carousel-indicators{
    display: none;
@@ -177,7 +181,6 @@ footer{
   font-size: 0.5em;
 }
 }
-
 
 /*--- Fixed Background Image --*/
 figure {
@@ -212,6 +215,5 @@ figure {
 [class*="col-"] {
     padding: 1rem;
 } */
-
 
 
