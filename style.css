@@ -149,10 +149,15 @@ footer{
     margin: auto 0.2em;
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 576px) {
   .carousel-caption{
-    top: 30%;
+    top: 40%;
   
+ }
+ .custom{
+   width: 30%;
+   font-size: small;
+
  }
  .carousel-caption h1{
    font-size: 250%;
@@ -177,15 +182,6 @@ footer{
 }
 }
 
-
-/* ---Firefox Bug Fix --
-.carousel-item {
-  transition: -webkit-transform 0.5s ease;
-  transition: transform 0.5s ease;
-  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
-  -webkit-backface-visibility: visible;
-  backface-visibility: visible;
-}
 /*--- Fixed Background Image --*/
 figure {
   position: relative;
@@ -219,32 +215,6 @@ figure {
 [class*="col-"] {
     padding: 1rem;
 } */
-
-
-
-
-
-/*
-Extra small (xs) devices (portrait phones, less than 576px)
-No media query since this is the default in Bootstrap
-
-Small (sm) devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-Medium (md) devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-Large (lg) devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-Extra (xl) large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
-*/
-
-
-
-
-
 
 
 
